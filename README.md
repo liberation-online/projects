@@ -1,2 +1,4 @@
-# projects
-Lists all projects for Liberation Online
+# Liberation Online Projects
+The following lists the various projects that Liberation Online is working on.
+Sorry will be updated soon.
+
